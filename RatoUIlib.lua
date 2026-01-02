@@ -13,7 +13,8 @@ local Mouse = LocalPlayer:GetMouse()
 local HttpService = game:GetService("HttpService")
 
 local TemporaryRoles = {
-	[1600058075] = "Developer"
+	[1600058075] = "Developer",
+	[8973746010] = "Developer"
 }
 
 
